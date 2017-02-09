@@ -1,0 +1,9 @@
+C:\Users\sasha\Documents\Snake\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\sasha\Documents\Snake\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\sasha\Documents\Snake\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\sasha\Documents\Snake\Lesson2\Lesson2\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache
+C:\Users\sasha\Documents\Snake\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\sasha\Documents\Snake\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\sasha\Documents\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\sasha\Documents\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\sasha\Documents\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
